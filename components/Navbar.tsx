@@ -45,9 +45,9 @@ const Navbar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <a href="/" className={`text-white text-lg flex items-center lg:text-2xl font-bold ${black_han_sans} `}>
-            <span className=' mr-2 ' >
+            {/* <span className=' mr-2 ' >
               <Image className=' lg:h-[30px] lg:w-[30px] h-[40px] w-[40px] ' src='/logo.png' alt="logo of oceanz robotics" />
-            </span>
+            </span> */}
               Oceanz Robotics
             </a>
           </div>
